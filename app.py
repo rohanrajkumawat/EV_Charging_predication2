@@ -391,7 +391,7 @@ with tab3:
 st.markdown("---")
 st.markdown("""
     <div style='text-align: center; padding: 20px; background-color: rgba(255,255,255,1); border-radius: 10px;'>
-        <p>Developed for AICTE Internship Cycle 2 by S4F</p>
+        <p>Developed for AICTE Internship Cycle 2 by Rohan Raj Kumawat</p>
         <p>Data Source: Washington State Department of Licensing | Last Updated: {}</p>
     </div>
 """.format(datetime.now().strftime("%B %d, %Y")), unsafe_allow_html=True)
